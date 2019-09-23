@@ -7,7 +7,7 @@ C:\Users\Esben\source\repos\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\Mai
 C:\Users\Esben\source\repos\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\Minutes.csproj.CoreCompileInputs.cache
 C:\Users\Esben\source\repos\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\Minutes.AssemblyInfoInputs.cache
 C:\Users\Esben\source\repos\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\Minutes.AssemblyInfo.cs
-C:\Users\Esben\source\repos\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Esben\source\repos\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\Minutes.dll
 C:\Users\Esben\source\repos\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\Minutes.pdb
 C:\Users\Esben\source\repos\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\NoteEntryEditPage.xaml.g.cs
+C:\Users\Esben\source\repos\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\XamlC.stamp

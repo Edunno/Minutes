@@ -4,6 +4,9 @@ C:\Users\Esben\source\repos\Minutes\Minutes\Minutes.Android\obj\Debug\90\android
 C:\Users\Esben\source\repos\Minutes\Minutes\Minutes.Android\obj\Debug\90\android\assets\Minutes.dll
 C:\Users\Esben\source\repos\Minutes\Minutes\Minutes.Android\obj\Debug\90\android\assets\Mono.Android.dll
 C:\Users\Esben\source\repos\Minutes\Minutes\Minutes.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\Esben\source\repos\Minutes\Minutes\Minutes.Android\obj\Debug\90\android\assets\Plugin.CurrentActivity.dll
+C:\Users\Esben\source\repos\Minutes\Minutes\Minutes.Android\obj\Debug\90\android\assets\Plugin.Media.dll
+C:\Users\Esben\source\repos\Minutes\Minutes\Minutes.Android\obj\Debug\90\android\assets\Plugin.Permissions.dll
 C:\Users\Esben\source\repos\Minutes\Minutes\Minutes.Android\obj\Debug\90\android\assets\System.Core.dll
 C:\Users\Esben\source\repos\Minutes\Minutes\Minutes.Android\obj\Debug\90\android\assets\System.dll
 C:\Users\Esben\source\repos\Minutes\Minutes\Minutes.Android\obj\Debug\90\android\assets\System.Numerics.dll

@@ -3,4 +3,12 @@
     <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="28" />
     <application android:label="Minutes.Android"></application>
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.VIBRATE" />
+  <uses-feature android:name="android.hardware.camera" />
+  <uses-permission android:name="android.hardware.camera.autofocus" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+  <provider android:name="android.support.v4.content.FileProvider" android:authorities="com.yourcompany.appname.fileprovider" android:exported="false" android:grantUriPermissions="true">
+    <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/file_paths"></meta-data>
+  </provider>
 </manifest>
